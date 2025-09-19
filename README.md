@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ My tools:
 
 <p align="center">
+<p align="center">
 <!-- Programming Languages -->
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/>
@@ -36,10 +37,11 @@ Here are some ideas to get you started:
 <img src="https://assets.labs.ine.com/web/badges/low/OSINT.png" alt="OSINT" width="50" height="50"/>
 <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-firewall-cyber-security-flat-flat-juicy-fish.png" alt="Firewall" width="50" height="50"/>
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-malware-cyber-security-flaticons-lineal-color-flat-icons.png" alt="Malware Analysis" width="50" height="50"/>
-<img src="https://img.icons8.com/fluency/48/000000/anonymous-mask.png" alt="Penetration Testing" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="50" height="50"/>
+<img src="https://img.icons8.com/fluency/48/000000/anonymous-mask.png" alt="Ethical Hacking" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="50" height="50"/>
 
 <!-- Networking -->
+<img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/networking.png" alt="Networking" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/cisco.png" alt="Cisco" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
