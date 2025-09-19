@@ -40,10 +40,9 @@ Here are some ideas to get you started:
 
 <!-- Networking -->
 <!-- Wireshark -->
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Wireshark" width="50" height="50"/>
+<img src="https://i.postimg.cc/Y9kZTP9H/wireshark.png" alt="Wireshark" width="50" height="50"/>
 <!-- Firewall -->
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048947.png" alt="Firewall" width="50" height="50"/>
-
+<img src="https://i.postimg.cc/Mp2DsQXk/firewall-glyph-icon-vector.jpg" alt="Firewall" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
 
 ## ☎️ Contact Me:
