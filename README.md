@@ -35,14 +35,13 @@ Here are some ideas to get you started:
 
 <!-- Cybersecurity & Forensics -->
 <img src="https://assets.labs.ine.com/web/badges/low/OSINT.png" alt="OSINT" width="50" height="50"/>
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-firewall-cyber-security-flat-flat-juicy-fish.png" alt="Firewall" width="50" height="50"/>
+<img src="https://commons.wikimedia.org/wiki/File:Firewall_Symbol_-_blue.svg" alt="Firewall" width="50" height="50"/>
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-malware-cyber-security-flaticons-lineal-color-flat-icons.png" alt="Malware Analysis" width="50" height="50"/>
 <img src="https://img.icons8.com/fluency/48/000000/anonymous-mask.png" alt="Ethical Hacking" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="50" height="50"/>
 
 <!-- Networking -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="Networking" width="50" height="50"/>
+<img src="https://commons.wikimedia.org/wiki/File:Wireshark_Logo.svg" alt="Wireshark" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
 
 ## ☎️ Contact Me:
