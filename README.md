@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/abdullahhmalikk/">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahhmalikk&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,355C7D,6C5B7B,C06C84" /></a>
  <p align="center">
-<img src="https://i.gifer.com/758X.gif" />
+<!-- <img src="https://i.gifer.com/758X.gif" /> -->
 <p>&nbsp;</p>
   
 
