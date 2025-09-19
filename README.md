@@ -41,11 +41,9 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="50" height="50"/>
 
 <!-- Networking -->
-<img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/networking.png" alt="Networking" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/cisco.png" alt="Cisco" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="50" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="Networking" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/cloudflare.png" alt="Cloudflare" width="50" height="50"/>
 
 ## ☎️ Contact Me:
 <p align="center">
