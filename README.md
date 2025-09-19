@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   - Network Security (FortiGate, Juniper SRX, Cisco IP Telephony)  
   - Malware Analysis (IDA Pro, Ghidra, yarGen, Cuckoo Sandbox, AnyRun)  
   - Automation & CLI scripting (JavaScript, GitHub workflows)
-- 📫 Reach me at: **m.abdullahmalik2001[at]gmail.com**  
+- 📫 Reach me at: **m.abdullahmalik2001@gmail.com**  
 - ⚡ My tools:
 
 <p align="center">
