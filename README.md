@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 -->
 
-<a href="https://github.com/abdullahhmalikk/"><img align="right" width="330" src="https://github.com/abdullahhmalikk/abdullahhmalikk/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg"></a>
 - 🎓 Cyber Security Graduate from FAST National University  
 - 💼 Currently working in Network Security at Arwen Tech (Pvt) Ltd  
 - 🔍 Passionate about both Network and Cyber Security domains  
@@ -35,13 +34,16 @@ Here are some ideas to get you started:
 
 <!-- Cybersecurity & Forensics -->
 <img src="https://assets.labs.ine.com/web/badges/low/OSINT.png" alt="OSINT" width="50" height="50"/>
-<img src="https://commons.wikimedia.org/wiki/File:Firewall_Symbol_-_blue.svg" alt="Firewall" width="50" height="50"/>
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-malware-cyber-security-flaticons-lineal-color-flat-icons.png" alt="Malware Analysis" width="50" height="50"/>
 <img src="https://img.icons8.com/fluency/48/000000/anonymous-mask.png" alt="Ethical Hacking" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="50" height="50"/>
 
 <!-- Networking -->
-<img src="https://commons.wikimedia.org/wiki/File:Wireshark_Logo.svg" alt="Wireshark" width="50" height="50"/>
+<!-- Wireshark -->
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Wireshark" width="50" height="50"/>
+<!-- Firewall -->
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048947.png" alt="Firewall" width="50" height="50"/>
+
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
 
 ## ☎️ Contact Me:
